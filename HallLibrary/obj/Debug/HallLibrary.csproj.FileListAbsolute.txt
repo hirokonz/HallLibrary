@@ -1,0 +1,120 @@
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.csproj.AssemblyReference.cache
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.AddBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.AddMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.BookReportForm.resources
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.DataController.resources
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.DeleteMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.LoanBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.MainForm.resources
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.MemberReportForm.resources
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.Properties.Resources.resources
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.ReturnBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.UpdateMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.csproj.GenerateResource.cache
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\bin\Debug\HallLibrary.exe.config
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\bin\Debug\HallLibrary.exe
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\bin\Debug\HallLibrary.pdb
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.exe
+C:\Users\hhodge\source\repos\HallLibrary\HallLibrary\obj\Debug\HallLibrary.pdb
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.exe.config
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.exe
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.pdb
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.AssemblyReference.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.AddBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.AddMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.BookReportForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.DataController.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.DeleteMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.LoanBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.MainForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.MemberReportForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.Properties.Resources.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.ReturnBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.UpdateMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.GenerateResource.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.exe
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.pdb
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.exe.config
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.exe
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.pdb
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.AssemblyReference.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.AddBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.AddMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.BookReportForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.DataController.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.DeleteMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.LoanBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.MainForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.MemberReportForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.Properties.Resources.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.ReturnBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.UpdateMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.GenerateResource.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.exe
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.08\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.pdb
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.exe.config
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.exe
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.pdb
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.AssemblyReference.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.AddBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.AddMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.BookReportForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.DataController.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.DeleteMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.LoanBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.MainForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.MemberReportForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.Properties.Resources.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.ReturnBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.UpdateMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.GenerateResource.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.exe
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.09\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.pdb
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.exe.config
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.exe
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.pdb
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.AssemblyReference.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.AddBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.AddMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.BookReportForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.DataController.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.DeleteMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.LoanBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.MainForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.MemberReportForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.Properties.Resources.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.ReturnBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.UpdateMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.GenerateResource.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.exe
+C:\Users\hhodge\source\repos\HallLibrary 20221101ex -2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.pdb
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.exe.config
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.exe
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\bin\Debug\HallLibrary.pdb
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.AssemblyReference.cache
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.AddBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.AddMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.BookReportForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.DataController.resources
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.DeleteMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.LoanBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.MainForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.MemberReportForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.Properties.Resources.resources
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.ReturnBookForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.UpdateMemberForm.resources
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.GenerateResource.cache
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.csproj.CoreCompileInputs.cache
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.exe
+C:\Users\hhodge\source\repos\HallLibrary 2022.11.10\HallLibrary20221101ex\HallLibrary\obj\Debug\HallLibrary.pdb
